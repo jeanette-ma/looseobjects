@@ -1,6 +1,6 @@
 # Data
-data/**.zip
-data/**.wav
+data/**/**.zip
+data/**/**.wav
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
